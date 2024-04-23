@@ -10,19 +10,25 @@ This is a required school project in a subject that introduced me to C#. Through
 Here are some screenshots:
 
 Welcome section
+
 ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/cf8df758-568d-4dc8-aeee-0aeb0d13da0b)
 
 Main menu
+
 ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/e2bf09fc-943c-4356-aa9b-02d873cad43d)
 
 Match selection
+
 ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/b9b9743a-af14-45a8-b46e-2afc1218130c)
 
 Rate selection
+
 ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/0b8f6f4e-592f-4c60-8395-7b6936ffd54b)
 
 Money deposit
+
 ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/f52fb709-4718-405a-b764-9003d1f377ef)
 
 Losing bet
+
 ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/aa63a3c6-0333-490b-9f51-3288326251f2)
