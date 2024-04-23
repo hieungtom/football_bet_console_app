@@ -1,0 +1,14 @@
+C:\Users\Tomas\skola\fotbalovy tikety projekt\bin\Debug\net7.0\fotbalovy tikety projekt.exe
+C:\Users\Tomas\skola\fotbalovy tikety projekt\bin\Debug\net7.0\fotbalovy tikety projekt.deps.json
+C:\Users\Tomas\skola\fotbalovy tikety projekt\bin\Debug\net7.0\fotbalovy tikety projekt.runtimeconfig.json
+C:\Users\Tomas\skola\fotbalovy tikety projekt\bin\Debug\net7.0\fotbalovy tikety projekt.dll
+C:\Users\Tomas\skola\fotbalovy tikety projekt\bin\Debug\net7.0\fotbalovy tikety projekt.pdb
+C:\Users\Tomas\skola\fotbalovy tikety projekt\obj\Debug\net7.0\fotbalovy tikety projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\skola\fotbalovy tikety projekt\obj\Debug\net7.0\fotbalovy tikety projekt.AssemblyInfoInputs.cache
+C:\Users\Tomas\skola\fotbalovy tikety projekt\obj\Debug\net7.0\fotbalovy tikety projekt.AssemblyInfo.cs
+C:\Users\Tomas\skola\fotbalovy tikety projekt\obj\Debug\net7.0\fotbalovy tikety projekt.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\skola\fotbalovy tikety projekt\obj\Debug\net7.0\fotbalovy tikety projekt.dll
+C:\Users\Tomas\skola\fotbalovy tikety projekt\obj\Debug\net7.0\refint\fotbalovy tikety projekt.dll
+C:\Users\Tomas\skola\fotbalovy tikety projekt\obj\Debug\net7.0\fotbalovy tikety projekt.pdb
+C:\Users\Tomas\skola\fotbalovy tikety projekt\obj\Debug\net7.0\fotbalovy tikety projekt.genruntimeconfig.cache
+C:\Users\Tomas\skola\fotbalovy tikety projekt\obj\Debug\net7.0\ref\fotbalovy tikety projekt.dll
