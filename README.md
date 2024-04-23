@@ -1,13 +1,20 @@
 # Football Betting Console Application
 This is a required school project in a subject that introduced me to C#. Throughout the course I learnt basics of C# and also used my knowledge of C, its predecessor, which helped me a lot. I made an application that would replicate the very basics of a regular betting application for football matches. This console application shows the menu to the user where the user makes a selection of choices and all the inputs are checked to make sure there is no error. After the user used all the available matches the application proceeds to end itself.
 
+
 <h2>Some functions of the console app:</h2>
+
   Show available matches from a file and then select each one based on a choice.
+  
   Select a bet rate of the selected match.
+  
   Deposit money with some limits.
+  
   Bet and based on the winning/losing result the balanced is updated and the rate is resetted.
 
+
 Here are some screenshots:
+
 
 Welcome section
 
