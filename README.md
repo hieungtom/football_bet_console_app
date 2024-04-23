@@ -13,7 +13,7 @@ This is a required school project in a subject that introduced me to C#. Through
   Bet and based on the winning/losing result the balanced is updated and the rate is resetted.
 
 
-Here are some screenshots:
+<h2>Some screenshots of the app:</h2>
 
 
 Welcome section
