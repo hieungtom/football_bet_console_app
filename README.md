@@ -24,26 +24,51 @@ This is a required school project in a subject that introduced me to C#. Through
 
 Welcome section
 
- - ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/cf8df758-568d-4dc8-aeee-0aeb0d13da0b)
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/cf8df758-568d-4dc8-aeee-0aeb0d13da0b)
 
 
 Main menu
 
- - ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/cd867698-76c5-43c1-95a0-8c889d126d1c)
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/cd867698-76c5-43c1-95a0-8c889d126d1c)
 
 
 Match selection
 
-![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/b9b9743a-af14-45a8-b46e-2afc1218130c)
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/b6bdaa05-a326-4591-b420-c07917a19f37)
+
 
 Rate selection
 
-![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/0b8f6f4e-592f-4c60-8395-7b6936ffd54b)
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/22948116-05c1-4c9a-90dd-17999b9060c7)
+
+
+Selected match and a bet rate
+
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/cb8b7a12-d5d6-4d4f-8b3e-ad3c6f2ea796)
+
 
 Money deposit
 
-![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/f52fb709-4718-405a-b764-9003d1f377ef)
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/34b91033-8671-4db1-b04b-627df3c12196)
 
-Losing bet
 
-![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/aa63a3c6-0333-490b-9f51-3288326251f2)
+Error money depposit
+
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/98120bc5-626c-4fc9-9259-10d6dca6e6e7)
+
+
+Current ticket
+
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/80463802-9b49-465a-8724-a18f8d324f95)
+
+
+Making a bet
+
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/334b9d03-c13b-460f-acfb-c981461d2185)
+
+
+Error trying to select a match that was already bet on
+
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/f383d64b-c854-4075-91d7-4a0205b874f7)
+
+
