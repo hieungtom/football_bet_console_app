@@ -24,11 +24,13 @@ This is a required school project in a subject that introduced me to C#. Through
 
 Welcome section
 
-![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/cf8df758-568d-4dc8-aeee-0aeb0d13da0b)
+ - ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/cf8df758-568d-4dc8-aeee-0aeb0d13da0b)
+
 
 Main menu
 
-![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/e2bf09fc-943c-4356-aa9b-02d873cad43d)
+ - ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/cd867698-76c5-43c1-95a0-8c889d126d1c)
+
 
 Match selection
 
