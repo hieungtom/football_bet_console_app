@@ -72,3 +72,17 @@ Error trying to select a match that was already bet on
 ![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/f383d64b-c854-4075-91d7-4a0205b874f7)
 
 
+Showing the last ticket that was bet on (its saved to a text file)
+
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/9c98ff10-9b31-4fcf-be24-266c07e8e3f8)
+
+
+Message that appears after using all the available matches
+
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/48c704a2-ba95-4eaa-b86f-08cf0cdfcf3f)
+
+
+After using all matches it proceeds to thank the user and then to shut down the app
+
+![image](https://github.com/hieungtom/football_bet_console_app/assets/144620197/0951c33a-4c1c-4a8c-8730-9896806b1072)
+
